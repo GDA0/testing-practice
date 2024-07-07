@@ -1,2 +1,3 @@
-# testing-practice
+# Testing Practice
+
 A testing practice
